@@ -1,11 +1,9 @@
 # Linear-Regression-model
-Linear regression modelling using python
-<h1>JWipe - Disk Sanitization</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>Linear regression modelling using python</h1>
 
 <h2>Description</h2>
-This is Linear Regression model made with python in VSCode on <br />
+This is Linear Regression model made with python in VSCode on population data<br />
 
 
 <h2>Languages and Utilities Used</h2>
@@ -21,32 +19,29 @@ This is Linear Regression model made with python in VSCode on <br />
 
 <p align="center">
 Load libraries and and check data: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://imgur.com/a/Y79Zjvx)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/yD71S1C.png" height="80%" width="80%" alt="Linear Regression Modelling Steps"/>
 <br />
 <br />
 Set variables:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/MSgCjYv.png" height="80%" width="80%] alt="Linear Regression Modelling Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Load necessary libraries and create the model: <br/>
+<img src="https://imgur.com/XMc0QlI.png" height="80%" width="80%" alt="Linear Regression Modelling Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Test the model:  <br/>
+<img src="https://imgur.com/2wHkM3s.png" height="80%" width="80%" alt="Linear Regression Modelling Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Plot model using seaborn scatterplot:  <br/>
+<img src="https://imgur.com/QwViUi5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Plot model using matplotlib scatterplot:  <br/>
+<img src="https://imgur.com/KhpZA7b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff

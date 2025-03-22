@@ -20,11 +20,11 @@ This is Linear Regression model made with python in VSCode on <br />
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Load libraries and and check data: <br/>
 <img src="[https://i.imgur.com/62TgaWL.png](https://imgur.com/a/Y79Zjvx)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Set variables:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
